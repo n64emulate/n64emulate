@@ -21,7 +21,8 @@ Welcome to the ultimate web-based Nintendo 64 emulator! Play your favorite N64 g
 4. **Select Core:** Choose the appropriate core for the game you’re loading. **Spoiler Alert:** There is seriously only one core option in the dropdown that you can really pick—no need to stress over it, just select the only choice available and you’re good to go!
 5. **Play:** Enjoy your game!
 
- If you want to add your own game, then download The zip file for your game from a website like [emulatorgames.net](https://www.emulatorgames.net/roms/nintendo-64/) or [romsgames.net](https://www.romsgames.net/roms/nintendo-64/) And then upload the zip file to a website or web server and then you could enter the URL.
+ If you want to add your own game, then download the zip file for your game from a website like [emulatorgames.net](https://www.emulatorgames.net/roms/nintendo-64/) or [romsgames.net](https://www.romsgames.net/roms/nintendo-64/) And then upload the zip file to a website or web server and then you can enter the URL.
+
 ## Can it Run Doom?
 
 ### Spoiler Alert: It Can!
