@@ -79,6 +79,15 @@ Here are some example ROMs to get you started:
 **ROM URL**:  
   `https://n64emulate.github.io/n64emulate/examples/roms/zips/GoldenEye%20007.zip`
 
+- **Paper Mario:**
+  
+<a href="https://n64emulate.github.io/n64emulate/examples/roms/zips/Paper%20Mario%20(U)%20%5B!%5D.zip">
+    <img src="https://lelbois.nekoweb.org/download.svg" alt="Download paper Mario 64 (U) [!]"/>
+  </a>
+
+**ROM URL**:  
+  `https://n64emulate.github.io/n64emulate/examples/roms/zips/Paper%20Mario%20(U)%20%5B!%5D.zip`
+
 **Instructions:**
 
 1. Choose one of the example ROM URLs.
