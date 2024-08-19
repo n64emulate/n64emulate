@@ -90,6 +90,15 @@ Here are some example ROMs to get you started:
 **ROM URL**:  
   `https://n64emulate.github.io/n64emulate/examples/roms/zips/Paper%20Mario%20(U)%20%5B!%5D.zip`
 
+- **WWF WrestleMania 2000:**
+  
+<a href="https://n64emulate.github.io/n64emulate/examples/roms/zips/WWF%20WrestleMania%202000%20(U)%20%5B!%5D.zip">
+    <img src="https://lelbois.nekoweb.org/download.svg" alt="Download wresle mania Mario 64 (U) [!]"/>
+  </a>
+
+**ROM URL**:  
+  `https://n64emulate.github.io/n64emulate/examples/roms/zips/WWF%20WrestleMania%202000%20(U)%20%5B!%5D.zip`
+
 
 **Instructions:**
 
