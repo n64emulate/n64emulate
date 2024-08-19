@@ -1,6 +1,9 @@
 
 # n64emulate
 
+![d7k63iz-386b9cbf-a6e2-4640-aecb-72ff5de7cc07 (1)](https://github.com/user-attachments/assets/51887a47-ee3a-4cc6-a7d8-5394196ee82f)
+
+
 Welcome to the ultimate web-based Nintendo 64 emulator! Play your favorite N64 games directly in your browser with ease. This emulator supports loading ROMs and allows for a nostalgic gaming experience without the need for physical hardware.
 
 ## Features
