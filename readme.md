@@ -24,7 +24,7 @@ Welcome to the ultimate web-based Nintendo 64 emulator! Play your favorite N64 g
 
 Yes, our emulator can indeed run the legendary Doom 64! Because who doesn’t want to face off against demons in a web browser? To play Doom 64, ensure you have the ROM in a ZIP file format with the `.z64` file inside. Use the following ROM URL:
 
-[https://n64emulate.github.io/n64emulate/examples/roms/zips/Doom%2064%20(U)%20[!].zip](https://n64emulate.github.io/n64emulate/examples/roms/zips/Doom%2064%20(U)%20[!].zip)
+[`https://n64emulate.github.io/n64emulate/examples/roms/zips/Doom%2064%20(U)%20[!].zip`](https://n64emulate.github.io/n64emulate/examples/roms/zips/Doom%2064%20(U)%20[!].zip)
 
 **Instructions:**
 
