@@ -41,7 +41,8 @@ So, grab your virtual shotgun and get ready to wreak havoc on the denizens of he
 Here are some example ROMs to get you started:
 
 - **Super Mario 64:**
-  <a href="https://n64emulate.github.io/n64emulate/examples/roms/zips/Super%20Mario%2064%20(U)%20[!].zip">
+  
+<a href="https://n64emulate.github.io/n64emulate/examples/roms/zips/Super%20Mario%2064%20(U)%20[!].zip">
     <img src="https://lelbois.nekoweb.org/download.svg" alt="Download Super Mario 64 (U) [!]"/>
   </a>
   
@@ -49,7 +50,8 @@ Here are some example ROMs to get you started:
   `https://n64emulate.github.io/n64emulate/examples/roms/zips/Super%20Mario%2064%20(U)%20[!].zip`
 
 - **Doraemon 3 - Nobi Dai no Machi SOS!:**
-  <a href="https://n64emulate.github.io/n64emulate/examples/roms/zips/Doraemon%203%20-%20Nobi%20Dai%20no%20Machi%20SOS!%20(J)%20[!].zip">
+ 
+ <a href="https://n64emulate.github.io/n64emulate/examples/roms/zips/Doraemon%203%20-%20Nobi%20Dai%20no%20Machi%20SOS!%20(J)%20[!].zip">
     <img src="https://lelbois.nekoweb.org/download.svg" alt="Download Doraemon 3 - Nobi Dai no Machi SOS! (J) [!]"/>
   </a>
   
@@ -57,7 +59,8 @@ Here are some example ROMs to get you started:
   `https://n64emulate.github.io/n64emulate/examples/roms/zips/Doraemon%203%20-%20Nobi%20Dai%20no%20Machi%20SOS!%20(J)%20[!].zip`
 
 - **Mario Kart 64:**
-  <a href="https://n64emulate.github.io/n64emulate/examples/roms/zips/Mario%20Kart%2064%20(E)%20(V1.1)%20[!].zip">
+ 
+ <a href="https://n64emulate.github.io/n64emulate/examples/roms/zips/Mario%20Kart%2064%20(E)%20(V1.1)%20[!].zip">
     <img src="https://lelbois.nekoweb.org/download.svg" alt="Download Mario Kart 64 (E) (V1.1) [!]"/>
   </a>
   
@@ -65,7 +68,8 @@ Here are some example ROMs to get you started:
   `https://n64emulate.github.io/n64emulate/examples/roms/zips/Mario%20Kart%2064%20(E)%20(V1.1)%20[!].zip`
 
 - **GoldenEye 007:**
-  <a href="https://n64emulate.github.io/n64emulate/examples/roms/zips/GoldenEye%20007.zip">
+  
+<a href="https://n64emulate.github.io/n64emulate/examples/roms/zips/GoldenEye%20007.zip">
     <img src="https://lelbois.nekoweb.org/download.svg" alt="Download GoldenEye 007"/>
   </a>
   
