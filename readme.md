@@ -54,8 +54,13 @@ Here are some example ROM URLs to get you started. Click the image for each game
   [Download Mario Kart 64 (E) (V1.1) [!].zip](https://lelbois.nekoweb.org/download.svg)
 
 - **GoldenEye 007:**  
-  [ROM URL](https://n64emulate.github.io/n64emulate/examples/roms/zips/GoldenEye%20007.zip)  
-  [Download GoldenEye 007.zip](https://lelbois.nekoweb.org/download.svg)
+  <a href="https://n64emulate.github.io/n64emulate/examples/roms/zips/GoldenEye%20007.zip">
+    <img src="https://lelbois.nekoweb.org/download.svg" alt="Download" />
+</a>
+
+```url
+https://n64emulate.github.io/n64emulate/examples/roms/zips/GoldenEye%20007.zip 
+  ```
 
 **Instructions:**
 
