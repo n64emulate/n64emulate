@@ -130,8 +130,9 @@ Here are some example ROMs to get you started:
 
 [ethanaobrien](https://github.com/ethanaobrien) for [EmulatorJS](https://emulatorjs.org/)
 
-Jim Clark and Hiroshi Yamauchi for making/coming up with the N64.
+[Jim Clark](https://en.wikipedia.org/wiki/James_H._Clark) and [Hiroshi Yamauchi](https://en.wikipedia.org/wiki/Hiroshi_Yamauchi) for making/coming up with the [N64.](https://www.nintendo.com/en-gb/Hardware/Nintendo-History/Nintendo-64/Nintendo-64-625959.html)
 
+[linuxfandudeguy](https://github.com/linuxfandudeguy) as the maintainer of the project.
 
 ## Contributing
 
