@@ -1,6 +1,5 @@
 
-
-# Nintendo 64 Web-Based Emulator
+# n64emulate
 
 Welcome to the ultimate web-based Nintendo 64 emulator! Play your favorite N64 games directly in your browser with ease. This emulator supports loading ROMs and allows for a nostalgic gaming experience without the need for physical hardware.
 
@@ -33,35 +32,45 @@ Yes, our emulator can indeed run the legendary Doom 64! Because who doesn’t wa
 2. Copy the URL above.
 3. Paste it into the ROM URL input field in the emulator.
 4. Select the appropriate core if prompted. **Spoiler Alert:** There is seriously only one core option in the dropdown that you can really pick—just select it and you're set!
-5. Hit 'Load' and prepare for some classic demon-slaying action.
+5. Hit 'Load Game' and prepare for some classic demon-slaying action.
 
 So, grab your virtual shotgun and get ready to wreak havoc on the denizens of hell—all without leaving your browser!
 
 ## Example ROMs
 
-Here are some example ROM URLs to get you started. Click the image for each game to download:
+Here are some example ROMs to get you started:
 
-- **Super Mario 64:**  
-  [ROM URL](https://n64emulate.github.io/n64emulate/examples/roms/zips/Super%20Mario%2064%20(U)%20[!].zip)  
-  [Download Super Mario 64 (U) [!].zip](https://lelbois.nekoweb.org/download.svg)
-
-- **Doraemon 3 - Nobi Dai no Machi SOS!:**  
-  [ROM URL](https://n64emulate.github.io/n64emulate/examples/roms/zips/Doraemon%203%20-%20Nobi%20Dai%20no%20Machi%20SOS!%20(J)%20[!].zip)  
-  [Download Doraemon 3 - Nobi Dai no Machi SOS! (J) [!].zip](https://lelbois.nekoweb.org/download.svg)
-
-- **Mario Kart 64:**  
-  [ROM URL](https://n64emulate.github.io/n64emulate/examples/roms/zips/Mario%20Kart%2064%20(E)%20(V1.1)%20[!].zip)  
-  [Download Mario Kart 64 (E) (V1.1) [!].zip](https://lelbois.nekoweb.org/download.svg)
-
-- **GoldenEye 007:**  
-  <a href="https://n64emulate.github.io/n64emulate/examples/roms/zips/GoldenEye%20007.zip">
-    <img src="https://lelbois.nekoweb.org/download.svg" alt="Download" />
-</a>
-
-**ROM URL**:
-
-`https://n64emulate.github.io/n64emulate/examples/roms/zips/GoldenEye%20007.zip` 
+- **Super Mario 64:**
+  <a href="https://n64emulate.github.io/n64emulate/examples/roms/zips/Super%20Mario%2064%20(U)%20[!].zip">
+    <img src="https://lelbois.nekoweb.org/download.svg" alt="Download Super Mario 64 (U) [!]"/>
+  </a>
   
+**ROM URL**:  
+  `https://n64emulate.github.io/n64emulate/examples/roms/zips/Super%20Mario%2064%20(U)%20[!].zip`
+
+- **Doraemon 3 - Nobi Dai no Machi SOS!:**
+  <a href="https://n64emulate.github.io/n64emulate/examples/roms/zips/Doraemon%203%20-%20Nobi%20Dai%20no%20Machi%20SOS!%20(J)%20[!].zip">
+    <img src="https://lelbois.nekoweb.org/download.svg" alt="Download Doraemon 3 - Nobi Dai no Machi SOS! (J) [!]"/>
+  </a>
+  
+**ROM URL**:  
+  `https://n64emulate.github.io/n64emulate/examples/roms/zips/Doraemon%203%20-%20Nobi%20Dai%20no%20Machi%20SOS!%20(J)%20[!].zip`
+
+- **Mario Kart 64:**
+  <a href="https://n64emulate.github.io/n64emulate/examples/roms/zips/Mario%20Kart%2064%20(E)%20(V1.1)%20[!].zip">
+    <img src="https://lelbois.nekoweb.org/download.svg" alt="Download Mario Kart 64 (E) (V1.1) [!]"/>
+  </a>
+  
+**ROM URL**:  
+  `https://n64emulate.github.io/n64emulate/examples/roms/zips/Mario%20Kart%2064%20(E)%20(V1.1)%20[!].zip`
+
+- **GoldenEye 007:**
+  <a href="https://n64emulate.github.io/n64emulate/examples/roms/zips/GoldenEye%20007.zip">
+    <img src="https://lelbois.nekoweb.org/download.svg" alt="Download GoldenEye 007"/>
+  </a>
+  
+**ROM URL**:  
+  `https://n64emulate.github.io/n64emulate/examples/roms/zips/GoldenEye%20007.zip`
 
 **Instructions:**
 
