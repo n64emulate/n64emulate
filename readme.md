@@ -58,9 +58,10 @@ Here are some example ROM URLs to get you started. Click the image for each game
     <img src="https://lelbois.nekoweb.org/download.svg" alt="Download" />
 </a>
 
-```url
-https://n64emulate.github.io/n64emulate/examples/roms/zips/GoldenEye%20007.zip 
-  ```
+**ROM URL**:
+
+`https://n64emulate.github.io/n64emulate/examples/roms/zips/GoldenEye%20007.zip` 
+  
 
 **Instructions:**
 
