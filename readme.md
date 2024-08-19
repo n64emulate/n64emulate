@@ -82,7 +82,7 @@ Here are some example ROMs to get you started:
 2. Copy the URL of your chosen game.
 3. Paste it into the ROM URL input field in the emulator.
 4. Select the appropriate core if prompted. **Spoiler Alert:** There is seriously only one core option in the dropdown that you can really pick—just select it and you’re all set!
-5. Hit 'Load' and dive into your chosen game!
+5. Hit 'Load Game' and dive into your chosen game!
 
 ## Troubleshooting
 
