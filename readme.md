@@ -112,7 +112,16 @@ Here are some example ROMs to get you started:
 - **Super Smash Bros:**
   
 <a href="https://n64emulate.github.io/n64emulate/examples/roms/zips/Super%20Smash%20Bros..zip">
-    <img src="https://lelbois.nekoweb.org/download.svg" alt="Download wresle mania Mario 64 (U) [!]"/>
+    <img src="https://lelbois.nekoweb.org/download.svg" alt="Download wresle mania Mario 64 power(U) [!]smash"/>
+  </a>
+
+**ROM URL**:  
+  `https://n64emulate.github.io/n64emulate/examples/roms/zips/Super%20Smash%20Bros..zip`
+
+- **Automobili Lamborghini:**
+  
+<a href="https://n64emulate.github.io/n64emulate/examples/roms/zips/Automobili%20Lamborghini%20(USA).zip">
+    <img src="https://lelbois.nekoweb.org/download.svg" alt="Download wresle mania Mario 64 power(U) [!]smash autogini "/>
   </a>
 
 **ROM URL**:  
