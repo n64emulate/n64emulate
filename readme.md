@@ -124,6 +124,15 @@ Here are some example ROMs to get you started:
 - **Controller Problems:** Make sure your controller is properly configured in your browser’s settings.
 - **Performance:** Adjust emulator settings to improve performance if needed.
 
+## Credits
+
+[adamwathan](https://github.com/adamwathan) for [Tailwind](https://tailwindcss.com/)
+
+[ethanaobrien](https://github.com/ethanaobrien) for [EmulatorJS](https://emulatorjs.org/)
+
+Jim Clark and Hiroshi Yamauchi for making/coming up with the N64.
+
+
 ## Contributing
 
 Feel free to contribute to the project by submitting issues or pull requests. Your feedback and contributions are always welcome!
