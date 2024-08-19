@@ -109,6 +109,15 @@ Here are some example ROMs to get you started:
 **ROM URL**:  
   `https://n64emulate.github.io/n64emulate/examples/roms/zips/Power%20Rangers%20-%20Lightspeed%20Rescue%20(U)%20%5B!%5D.zip`
 
+- **Super Smash Bros:**
+  
+<a href="https://n64emulate.github.io/n64emulate/examples/roms/zips/Super%20Smash%20Bros..zip">
+    <img src="https://lelbois.nekoweb.org/download.svg" alt="Download wresle mania Mario 64 (U) [!]"/>
+  </a>
+
+**ROM URL**:  
+  `https://n64emulate.github.io/n64emulate/examples/roms/zips/Super%20Smash%20Bros..zip`
+
 
 **Instructions:**
 
